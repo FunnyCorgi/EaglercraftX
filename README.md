@@ -1,3 +1,3 @@
 # EaglercraftX
-## **DISCLAMER: THIS IS AN ARCHIVAL BACKUP OF EAGLERCRAFT FOR PEOPLE TO REFERENCE DIFFERENT, POTENTIALLY HISTORICAL VERSIONS OF EAGLERCRAFT, & WILL BE UPDATED IN THE FUTURE WHEN NEW VERSIONS OF EAGLERCRAFT ARE RELEASED. I DO NOT INTEND COPYRIGHT INFRINGEMENT IN ANY WAY.**
-## **NOTE: THIS _IS_ LINKED TO A WEBSITE, BUT FOR NAVIGATION BETWEEN VERSIONS ONLY.**
+## **This is an archival backup of Eaglercraft for reference purposes, showcasing different, potentially historical versions of the software. It will be updated as new versions of Eaglercraft are released. No copyright infringement is intended.**
+## **Note: The linked website is provided solely for navigation between versions.**
